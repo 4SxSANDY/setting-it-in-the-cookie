@@ -1,8 +1,10 @@
 {
+  "type": "module",
   "scripts": {
     "start": "servor --reload"
   },
   "dependencies": {
+    "jose": "^6.0.10",
     "servor": "^4.0.2"
   }
-}
+} 
